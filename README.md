@@ -1,1 +1,0 @@
-# CodeClauseInternship_Gender_and_age_detection_system
