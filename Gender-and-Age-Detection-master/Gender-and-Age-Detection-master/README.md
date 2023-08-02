@@ -1,4 +1,4 @@
-# Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
+# CodeClauseInternship_Gender-and-Age-Detection-System 
 
 
 <h2>Objective :</h2>
